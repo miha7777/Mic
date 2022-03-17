@@ -951,13 +951,12 @@ body {
 .about__info-img__png {
   width: 275px;
   height: 275px;
-  background: url(/dist/img/emojie2.png) 0 0 / cover no-repeat;
+  background: url(../img/emojie2.png) 0 0 / cover no-repeat;
 }
 @media (max-width: 277px) {
   .about__info-img__png {
     width: 200px;
     height: 200px;
-    background: url(/dist/img/emojie2.png) 0 0 / cover no-repeat;
   }
   .about__title {
     width: 100%;
