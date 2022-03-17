@@ -310,11 +310,11 @@ body {
   opacity: 1;
   height: 100%;
 }
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   .offcanvas {
     background: #FFA97A;
     opacity: 1;
-    height: 50%;
+    height: 60%;
   }
 }
 .main__post {
